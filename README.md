@@ -27,9 +27,6 @@ IMDB Clone
 
 ---
 
-GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Vilas317&show_icons=true)
-
 Connect with me
 - LinkedIn: https://www.linkedin.com/in/vilas-tamakar
 - Portfolio: https://vilas-tamrakar-portfolio-248121419082.us-west1.run.app/
