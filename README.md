@@ -1,16 +1,35 @@
-## Hi there 👋
+Hi There, 
+I'm Vilas 👋
 
-<!--
-**Vilas317/Vilas317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer (MERN) | 2+ Years Experience  
+Currently working at Cognizant  
+📍 Bengaluru, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack
+- Frontend: React, JavaScript, HTML, CSS, Tailwind
+- Backend: Node.js, Express
+- Database: MongoDB
+- Tools: Git, GitHub, Postman
+
+---
+
+Projects
+ Fleet Tracking Dashboard
+- Built using React + Node.js
+- Real-time tracking UI
+- Role-based access
+
+IMDB Clone
+- Fetches movie data using TMDB API
+- Authentication + Watchlist
+
+---
+
+GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Vilas317&show_icons=true)
+
+Connect with me
+- LinkedIn: https://www.linkedin.com/in/vilas-tamakar
+- Portfolio: https://vilas-tamrakar-portfolio-248121419082.us-west1.run.app/
