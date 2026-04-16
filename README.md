@@ -16,7 +16,9 @@ Tech Stack
 ---
 
 Projects
+
 Hirewise – Job Application Tracker
+
 Full-stack MERN job tracker with JWT auth, CRUD operations, and deployment (Render + Vercel)
 
 Frontend:
