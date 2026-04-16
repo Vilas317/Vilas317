@@ -18,14 +18,11 @@ Tech Stack
 Projects
 
 Hirewise – Job Application Tracker
-
 - Full-stack MERN job tracker with JWT auth, CRUD operations, and deployment (Render + Vercel)
-
 - Frontend:
 React (Vite)
 Tailwind CSS
 React Router
-
 - Backend:
 Node.js
 Express.js
