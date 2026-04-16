@@ -16,10 +16,19 @@ Tech Stack
 ---
 
 Projects
- Fleet Tracking Dashboard
-- Built using React + Node.js
-- Real-time tracking UI
-- Role-based access
+Hirewise – Job Application Tracker
+Full-stack MERN job tracker with JWT auth, CRUD operations, and deployment (Render + Vercel)
+
+Frontend:
+React (Vite)
+Tailwind CSS
+React Router
+
+Backend:
+Node.js
+Express.js
+MongoDB + Mongoose
+JWT Authentication
 
 IMDB Clone
 - Fetches movie data using TMDB API
