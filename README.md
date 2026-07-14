@@ -49,7 +49,7 @@ Express.js
 MongoDB + Mongoose
 JWT Authentication
 
-IMDB Clone
+Movie Discovery Platform
 - Fetches movie data using TMDB API
 - Authentication + Watchlist
 
