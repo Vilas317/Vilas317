@@ -1,9 +1,9 @@
 Hi There, 
 I'm Vilas 👋
 
-Full Stack Developer (MERN) | 2+ Years Experience  
-Currently working at Cognizant  
-📍 Bengaluru, India  
+Full Stack Developer (MERN) | 3+ Years Experience  
+Currently working at Freelance Full Stack Developer  
+📍 Remote  
 
 ---
 
@@ -16,6 +16,19 @@ Tech Stack
 ---
 
 Projects
+
+MailPilot AI Mail Assistant
+- An AI-powered Gmail client built with the MERN stack that enables users to manage their inbox using natural language. The application integrates Google OAuth for authentication, Gmail API for email management, and OpenAI GPT-4.1 Mini to provide intelligent email assistance such as summarization, reply generation, email drafting, and smart search.
+- Frontend
+React.js
+React Router DOM
+Tailwind CSS
+Axios
+React Hot Toast
+Context API
+- Backend
+Node.js
+Express.js
 
 Hirewise – Job Application Tracker
 - Full-stack MERN job tracker with JWT auth, CRUD operations, and deployment (Render + Vercel)
