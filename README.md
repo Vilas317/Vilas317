@@ -7,7 +7,8 @@ Currently working at Freelance Full Stack Developer
 
 ---
 
-Tech Stack
+Tech Stack:
+
 Languages: Java, JavaScript,
 
 Frontend: React.js, HTML, CSS,
