@@ -8,10 +8,14 @@ Currently working at Freelance Full Stack Developer
 ---
 
 Tech Stack
-Languages: Java, JavaScript
-Frontend: React.js, HTML, CSS
-Backend: Node.js, Express.js, REST APIs
-Databases: SQL, MongoDB
+Languages: Java, JavaScript,
+
+Frontend: React.js, HTML, CSS,
+
+Backend: Node.js, Express.js, REST APIs,
+
+Databases: SQL, MongoDB,
+
 Tools: GitHub, CI/CD, ServiceNow
 
 
