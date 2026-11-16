@@ -63,7 +63,7 @@ Node.js
 Express.js
 
 **Hirewise – Job Application Tracker**
-- Full-stack MERN job tracker with JWT auth, CRUD operations, and deployment (Render + Vercel)
+- HireWise is a full-stack job application tracking platform designed to help job seekers organize, manage, and monitor their job search in one centralized place. Instead of maintaining spreadsheets or manually tracking applications, users can use HireWise to record job applications, monitor application statuses, manage their progress, and gain insights into their job search.
 - Frontend:
 React (Vite)
 Tailwind CSS
