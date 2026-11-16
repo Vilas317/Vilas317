@@ -2,8 +2,7 @@ Hi There,
 I'm Vilas 👋
 
 Full Stack Developer (MERN) | 3+ Years Experience  
-Currently working at Freelance Full Stack Developer  
-📍 Remote  
+Currently working at Freelance Full Stack Developer   
 
 ---
 
