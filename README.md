@@ -7,17 +7,15 @@ Currently working at Freelance Full Stack Developer
 
 ---
 
-Tech Stack:
+**Tech Stack:**
 
-Languages: Java, JavaScript,
-
-Frontend: React.js, HTML, CSS,
-
-Backend: Node.js, Express.js, REST APIs,
-
-Databases: SQL, MongoDB,
-
-Tools: GitHub, CI/CD, ServiceNow
+**Languages**: Python, Java, JavaScript
+**Frontend**: React.js, Redux Toolkit, Tailwind CSS, Next.js
+**Backend**: Node.js, Express.js, REST APIs
+**Databases**: SQL, MongoDB
+**AI / LLM**: OpenAI API (GPT-4.1 Mini), prompt design, LLM-powered features (summarization, reply generation, search)
+**Authentication / APIs**: Google OAuth 2.0, Gmail API, JWT, Passport.js
+**Tools / Automation**: GitHub, GitHub Actions, CI/CD, PowerShell, SCCM, ServiceNow
 
 
 ---
