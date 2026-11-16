@@ -38,17 +38,14 @@ SQLAlchemy
 Pydantic
 PostgreSQL
 pgvector
-
-AI / Agent Layer
+- AI / Agent Layer
 Gemini
 LangGraph
 Embeddings
 Retrieval-Augmented Generation (RAG)
-
-Frontend
+- Frontend
 React
-
-Infrastructure
+- Infrastructure
 Docker
 Docker Compose
 PostgreSQL 17
