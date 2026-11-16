@@ -28,9 +28,7 @@ Currently working at Freelance Full Stack Developer
 Projects
 
 **DocSentinel- Policy Aware Document Intelligence Platform**
-- Built a document intelligence platform with PDF text extraction, chunking, embeddings, and RAG-based semantic search over PostgreSQL/pgvector.
-- Developed LangGraph agent workflows with Gemini for contradiction detection, rule evaluation, and policy decisions, with human review and item-level approval before changes are committed.
-- Implemented a policy gateway with tool allowlisting, sensitive-content scanning, per-team quotas, and audit logging, and containerized the backend with Docker Compose. \
+- An agentic document intelligence platform with a policy-controlled gateway for secure integration with external document tools such as SuperDocs. DocSentinel combines document ingestion, text extraction, chunking, embeddings, semantic retrieval, agent workflows, and a policy enforcement gateway into a single backend platform. The Policy Gateway provides a controlled boundary between an agent/client and downstream document-editing tools. Requests are evaluated against organizational policies before being forwarded to the external service.
 - Backend:
 Python
 FastAPI
