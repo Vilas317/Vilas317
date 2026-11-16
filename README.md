@@ -60,6 +60,6 @@ JWT Authentication
 
 ---
 
-Connect with me
-- LinkedIn: https://www.linkedin.com/in/vilas-tamrakar/
-- Portfolio: https://modern-software-engi-g5fv.bolt.host/
+**Connect with me**
+- **LinkedIn:** https://www.linkedin.com/in/vilas-tamrakar/
+- **Portfolio:** https://modern-software-engi-g5fv.bolt.host/
